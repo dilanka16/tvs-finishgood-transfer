@@ -9,10 +9,9 @@ from tkcalendar import DateEntry
 import threading
 
 # ---------- SQL SERVER ----------
-server = "192.168.5.253"
-database = "GTDBSLTL"
-username = "sa"
-password = "abcd@abcd"
+server = ""
+database = ""
+password = ""
 
 # ---------- GOOGLE SHEETS ----------
 GOOGLE_SHEET_URL = "https://docs.google.com/spreadsheets/d/1PnFKuVZJKMY7oNrxrvTrbEFc_pp8QpTqUHhbANjtl6U/edit"
